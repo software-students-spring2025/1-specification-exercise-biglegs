@@ -18,7 +18,7 @@ Interviewer: Lily Fu
 
 Stakeholder: Aaron Duan, Senior in Stern Finance
 
-Summary of Goals/Needs:
+**Summary of Goals/Needs:**
 
 - The app should provide a clear and simple way to check printer status (e.g., online/offline, paper/ink levels).
 
@@ -32,7 +32,7 @@ Summary of Goals/Needs:
 
 - Option to track past print jobs and costs.
 
-Summary of Problems/Frustrations:
+**Summary of Problems/Frustrations:**
 
 - Users often walk to a printer only to find it out of service or paper/ink.
 
