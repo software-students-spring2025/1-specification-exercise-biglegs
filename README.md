@@ -46,7 +46,7 @@ Stakeholder: Aaron Duan, Senior in Stern Finance
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+BigPrints empowers students and staff at NYU with a seamless on-campus printing experience by enabling access to every printer’s features and location, as well as real-time availability, traffic and maintenance status, and progress of the user’s print jobs.
 
 ## User Requirements
 
