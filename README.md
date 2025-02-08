@@ -60,6 +60,19 @@ As a student, I want to be able to report malfunctions of the printer so that I 
 
 As a student, I want to see instructions for self-debugging small malfunctions so that I can solve minor issues and not delay my print tasks.
 
+As a maintenance staff member, I want to receive real-time notifications of printer issues, so I can prioritize and fix problems efficiently.
+
+As a student, I want to notify maintenance when a printer is out of paper, so I can continue printing without delays.
+
+As a student, I want to see an estimated wait time for a busy printer, so I can decide whether to wait or choose another one.
+
+As a student, I want to filter printers by distance so that I can decide which printer I should go to to save time.
+
+As a student, I want to filter printers by availability, so I can quickly find a free one to use.
+
+As a student, I want to receive real-time updates on my print job status, so I know when it is completed or if there is an issue.
+
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
