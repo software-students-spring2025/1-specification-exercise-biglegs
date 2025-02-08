@@ -50,7 +50,15 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As a teaching assistant, I want to see which printer is available so that I can print out a large amount of exams.
+
+As a professor, I want to see which printer supports color printing so that I can print out colored handouts.
+
+As a printer user, I want to see how many credits I have left so that I can recharge my printing credits at any time.
+
+As a student, I want to be able to report malfunctions of the printer so that I can get help immediately if the printer is broken.
+
+As a student, I want to see instructions for self-debugging small malfunctions so that I can solve minor issues and not delay my print tasks.
 
 ## Activity Diagrams
 
