@@ -38,7 +38,7 @@ Stakeholder: Aaron Duan, Senior in Stern Finance
 
 - Some printers are in hidden locations or are always busy.
 
-- Users cannot find a way to report the issue of a printer
+- Users cannot find a way to report the issue of a printer.
 
 - Users must be physically at the printer to start a job, which is inconvenient.
 
