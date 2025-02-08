@@ -4,9 +4,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Adam Cao: https://github.com/eth3r3aI
-Lan Yao: https://github.com/ziiiimu
-Lauren Zhou: https://github.com/laurenlz
+Adam Cao: https://github.com/eth3r3aI  
+Lan Yao: https://github.com/ziiiimu  
+Lauren Zhou: https://github.com/laurenlz  
 Lily Fu: https://github.com/fulily0325
 
 ## Stakeholders
