@@ -75,7 +75,13 @@ As a student, I want to receive real-time updates on my print job status, so I k
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### User story #1:
+User story: As a teaching assistant, I want to see which printer is available so that I can print out a large amount of exams.  
+![UML_1](https://github.com/user-attachments/assets/68d35e69-d42b-4c5a-a034-52bb212c0ab7)
+
+### User story #2:
+User story: As a maintenance staff member, I want to receive real-time notifications of printer issues, so I can prioritize and fix problems efficiently.  
+![UNL_2](https://github.com/user-attachments/assets/2916ecf8-83e9-41c0-9e54-89d7a489ba43)
 
 ## Clickable Prototype
 
