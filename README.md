@@ -79,4 +79,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-[Figma Prototype](https://www.figma.com/design/etMKOY3n4WLb6vTWm4x9gD/biglegs?node-id=0-1&p=f&t=JNHticgqs9vu6FjC-0)
+[Figma Prototype](https://www.figma.com/proto/etMKOY3n4WLb6vTWm4x9gD/biglegs?node-id=34-3&p=f&t=EGn73xsO2xxdpjFj-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A3)
