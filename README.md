@@ -58,17 +58,7 @@ BigPrints empowers students and staff at NYU with a seamless on-campus printing 
 
 4. As a student, I want to be able to report malfunctions of the printer so that I can get help immediately if the printer is broken.
 
-5. As a maintenance staff member, I want to receive real-time notifications of printer issues, so I can prioritize and fix problems efficiently.
 
-6. As a student, I want to notify maintenance when a printer is out of paper, so I can continue printing without delays.
-
-7. As a student, I want to see an estimated wait time for a busy printer, so I can decide whether to wait or choose another one.
-
-8. As a student, I want to filter printers by distance so that I can decide which printer I should go to to save time.
-
-9. As a student, I want to filter printers by availability, so I can quickly find a free one to use.
-
-10. As a student, I want to receive real-time updates on my print job status, so I know when it is completed or if there is an issue.
 
 
 ## Activity Diagrams
