@@ -77,12 +77,12 @@ BigPrints empowers students and staff at NYU with a seamless on-campus printing 
 ### User story #1  
 As a teaching assistant, I want to see which printer is available so that I can print out a large amount of exams.  
 
-![UML_1.png](../../../../../Downloads/UML_1.png)  
+![UML_1.png](images/UML_1.png)  
 
 ### User story #2  
 As a maintenance staff member, I want to receive real-time notifications of printer issues, so I can prioritize and fix problems efficiently.  
 
-![UML_2.png](../../../../../Downloads/UNL_2.png)
+![UML_2.png](images/UML_2.png)
 
 ## Clickable Prototype
 
