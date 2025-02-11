@@ -74,16 +74,6 @@ BigPrints empowers students and staff at NYU with a seamless on-campus printing 
 
 ## Activity Diagrams
 
-### User story #1:
-User story: As a teaching assistant, I want to see which printer is available so that I can print out a large amount of exams.  
-
-![UML_1](https://github.com/user-attachments/assets/68d35e69-d42b-4c5a-a034-52bb212c0ab7)
-
-### User story #2:
-User story: As a maintenance staff member, I want to receive real-time notifications of printer issues, so I can prioritize and fix problems efficiently.  
-
-![UNL_2](https://github.com/user-attachments/assets/2916ecf8-83e9-41c0-9e54-89d7a489ba43)
-
 ## Clickable Prototype
 
 [Figma Prototype](https://www.figma.com/proto/etMKOY3n4WLb6vTWm4x9gD/biglegs?node-id=34-3&p=f&t=EGn73xsO2xxdpjFj-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A3)
